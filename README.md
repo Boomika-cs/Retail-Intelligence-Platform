@@ -1,21 +1,26 @@
 # Retail Intelligence Platform
 
-This project analyzes retail transaction data and generates business insights using Python and machine learning.
+## Project Overview
+The Retail Intelligence Platform is a data analytics project designed to analyze retail sales data and generate business insights. The system processes raw retail transaction data, performs data cleaning and transformation using Python, and visualizes key insights through a Power BI dashboard.
 
-## Features
-- Data extraction and preprocessing
-- Sales analysis
-- Customer segmentation using K-Means clustering
-- Data visualization using Python
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Power BI
+- Git & GitHub
 
-## Technologies
-Python
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
+## Project Workflow
+1. Data Extraction – Load raw retail dataset
+2. Data Transformation – Clean and preprocess the data
+3. Data Analysis – Generate sales insights using Python
+4. Data Visualization – Create interactive dashboards using Power BI
 
-## Insights Generated
+## Key Insights Generated
+- Total retail revenue
 - Top selling products
 - Revenue by country
-- Customer segmentation based on spending behavior
+- Monthly sales trend
+
+## Dashboard Preview
+![Retail Dashboard](dashboard.png)
